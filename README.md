@@ -5,9 +5,8 @@ For this frontend practice project,  I cloned the bonsai website using SCSS, CSS
 ### view live:
 
 ### Some screenshots:
-![alt text](https://github.com/magdalent/Front/blob/main/img1.png)
-![alt text](https://github.com/magdalent/ableton-frontend-practice/blob/main/img2.png)
-![alt text](https://github.com/magdalent/ableton-frontend-practice/blob/main/img3.png)
-![alt text](https://github.com/magdalent/ableton-frontend-practice/blob/main/img4.png)
-![alt text](https://github.com/magdalent/ableton-frontend-practice/blob/main/img5.png)
-
+<img src="https://github.com/magdalent/Frontend-Practice-Bonsai/blob/main/img1.png" alt="drawing" width="600"/>
+<img src="https://github.com/magdalent/Frontend-Practice-Bonsai/blob/main/img2.png" alt="drawing" width="600"/>
+<img src="https://github.com/magdalent/Frontend-Practice-Bonsai/blob/main/img3.png" alt="drawing" width="600"/>
+<img src="https://github.com/magdalent/Frontend-Practice-Bonsai/blob/main/img4.png" alt="drawing" width="600"/>
+<img src="https://github.com/magdalent/Frontend-Practice-Bonsai/blob/main/img5.png" alt="drawing" width="350"/>
