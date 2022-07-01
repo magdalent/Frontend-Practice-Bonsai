@@ -1,5 +1,5 @@
 # Frontend-Practice-Bonsai
-Bonsai frontend practice project that was made with css/sass 
+Bonsai frontend practice project that was made with css/sass. 
 For this frontend practice project,  I cloned the bonsai website using SCSS, CSS grid and HTML only.
 [More information on the project is here.](https://www.frontendpractice.com/projects/bonsai)
 ### view live:
